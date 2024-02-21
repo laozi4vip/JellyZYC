@@ -5,7 +5,7 @@
 
     {
       "key": "Bili",
-      "name": "👑果冻👑&🅱哔哔┃哔哩",
+      "name": "🅱哔哔┃哔哩",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -19,7 +19,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "👑果冻👑&🏭️厂长┃直连",
+      "name": "🏭️厂长┃直连",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -31,7 +31,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👑果冻👑&🎈玩偶┃4K弹幕",
+      "name": "🎈玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -41,7 +41,7 @@
     },
     {
       "key": "sansan",
-      "name": "👑果冻👑&⭕️三三┃解析",
+      "name": "⭕️三三┃解析",
       "type": 3,
       "api": "csp_SP33",
       "searchable": 1,
@@ -50,7 +50,7 @@
     },
     {
       "key": "赞赞",
-      "name": "👑果冻👑&➕赞赞┃切片",
+      "name": "➕赞赞┃切片",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -61,7 +61,7 @@
     },
     {
       "key": "亮亮",
-      "name": "👑果冻👑&💡亮亮┃APP",
+      "name": "💡亮亮┃APP",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -72,7 +72,7 @@
     },
     {
       "key": "加速",
-      "name": "👑果冻👑&🐰加速┃APP",
+      "name": "🐰加速┃APP",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_AppYsV2",
@@ -82,7 +82,7 @@
     },
     {
       "key": "南瓜",
-      "name": "👑果冻👑&🎃南瓜┃App",
+      "name": "🎃南瓜┃App",
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
@@ -92,7 +92,7 @@
     },
     {
       "key": "csp_77",
-      "name": "👑果冻👑&🥣七七┃APP",
+      "name": "🥣七七┃APP",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -101,7 +101,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "👑果冻👑&👓视觉┃直连",
+      "name": "👓视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "南坊",
-      "name": "👑果冻👑&☀南坊┃App",
+      "name": "☀南坊┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -121,7 +121,7 @@
     },
     {
       "key": "嘿嘿",
-      "name": "👑果冻👑&🌾嘿嘿┃App",
+      "name": "🌾嘿嘿┃App",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "saohuo",
-      "name": "👑果冻👑&🔥骚火┃直连",
+      "name": "🔥骚火┃直连",
       "type": 3,
       "searchable": 1,
       "changeable": 0,
@@ -154,7 +154,7 @@
     },
     {
       "key": "freeok",
-      "name": "👑果冻👑&🌟free┃BPQ",
+      "name": "🌟free┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": "2",
@@ -175,7 +175,7 @@
     },
     {
       "key": "03影院",
-      "name": "👑果冻👑&🛀03影┃BPQ",
+      "name": "🛀03影┃BPQ",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -201,7 +201,7 @@
     },
     {
       "key": "Auete",
-      "name": "👑果冻👑&🏂奥特┃直连",
+      "name": "🏂奥特┃直连",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -211,7 +211,7 @@
     },
     {
       "key": "Xinsj",
-      "name": "👑果冻👑&👓视觉┃直连",
+      "name": "👓视觉┃直连",
       "type": 3,
       "api": "csp_Xinsj",
       "searchable": 1,
@@ -221,7 +221,7 @@
     },
     {
       "key": "毛驴",
-      "name": "👑果冻👑&🎀毛驴┃App",
+      "name": "🎀毛驴┃App",
       "type": 3,
       "api": "csp_MLYS",
       "searchable": 1,
@@ -231,7 +231,7 @@
     },
     {
       "key": "csp_Nmys",
-      "name": "👑果冻👑&🧑农民┃直连",
+      "name": "🧑农民┃直连",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -241,7 +241,7 @@
     },
     {
       "key": "乌鸦",
-      "name": "👑果冻👑&🐦乌鸦┃影视",
+      "name": "🐦乌鸦┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -279,7 +279,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "👑果冻👑&👀低端┃外剧",
+      "name": "👀低端┃外剧",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "黑狐",
-      "name": "👑果冻👑&🦊黑狐┃BPQ",
+      "name": "🦊黑狐┃BPQ",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -331,7 +331,7 @@
     },
     {
       "key": "双黄",
-      "name": "👑果冻👑&🥚双黄┃BPQ",
+      "name": "🥚双黄┃BPQ",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -348,7 +348,7 @@
     },
     {
       "key": "茶杯",
-      "name": "👑果冻👑&🍵茶杯┃BPQ",
+      "name": "🍵茶杯┃BPQ",
       "type": 3,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -364,7 +364,7 @@
     },
     {
       "key": "热播库",
-      "name": "👑果冻👑&🔥热播┃BPQ",
+      "name": "🔥热播┃BPQ",
       "type": 3,
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -395,7 +395,7 @@
     },
     {
       "key": "相声",
-      "name": "👑果冻👑&📻相声┃BPQ",
+      "name": "📻相声┃BPQ",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -430,7 +430,7 @@
     },
     {
       "key": "评书",
-      "name": "👑果冻👑&📻评书┃BPQ",
+      "name": "📻评书┃BPQ",
       "type": 3,
       "searchable": 0,
       "style": {
@@ -465,7 +465,7 @@
     },
     {
       "key": "88js",
-      "name": "👑果冻👑&⚽ 88┃看球",
+      "name": "⚽ 88┃看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/88看球.js",
@@ -478,7 +478,7 @@
     },
     {
       "key": "alist",
-      "name": "👑果冻👑&🍰小鸭┃网盘",
+      "name": "🍰小鸭┃网盘",
       "type": 3,
       "playerType": "1",
       "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -490,7 +490,7 @@
         "vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
         "drives": [
           {
-            "name": "👑果冻👑&🦆托盘",
+            "name": "🦆托盘",
             "server": "https://pan.mediy.cn/"
           }
         ]
@@ -498,7 +498,7 @@
     },
     {
       "key": "YiSo",
-      "name": "👑果冻👑&☁️易搜┃4K搜",
+      "name": "☁️易搜┃4K搜",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -509,7 +509,7 @@
     },
     {
       "key": "PanSou",
-      "name": "👑果冻👑&🦊盘搜┃搜索",
+      "name": "🦊盘搜┃搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -519,7 +519,7 @@
     },
     {
       "key": "Zhaozy",
-      "name": "👑果冻👑&🎉资源┃4K搜",
+      "name": "🎉资源┃4K搜",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -530,7 +530,7 @@
     },
     {
       "key": "七夜",
-      "name": "👑果冻👑&😾七夜┃搜索",
+      "name": "😾七夜┃搜索",
       "type": 3,
       "api": "csp_Dovx",
       "searchable": 1,
@@ -540,7 +540,7 @@
     },
     {
       "key": "UpYun",
-      "name": "👑果冻👑&☁️Up搜┃4K搜",
+      "name": "☁️Up搜┃4K搜",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -551,7 +551,7 @@
     },
     {
       "key": "九六",
-      "name": "👑果冻👑&🎀九六┃直连",
+      "name": "🎀九六┃直连",
       "type": 3,
       "api": "csp_Cs1369",
       "playerType": 2,
@@ -561,7 +561,7 @@
     },
     {
       "key": "小胡",
-      "name": "👑果冻👑&👒资源┃小胡",
+      "name": "👒资源┃小胡",
       "searchable": 1,
       "quickSearch": 1,
       "type": 1,
@@ -570,7 +570,7 @@
     },
     {
       "key": "push_agent",
-      "name": "👑果冻👑&公众号：神秘的哥哥们",
+      "name": "公众号：神秘的哥哥们",
       "type": 3,
       "api": "csp_Push",
       "searchable": 1,
@@ -581,17 +581,17 @@
   ],
   "parses": [
     {
-      "name": "👑果冻👑&聚合1",
+      "name": "聚合1",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "👑果冻👑&聚合0",
+      "name": "聚合0",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "👑果冻👑&稻香🌾",
+      "name": "稻香🌾",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -623,7 +623,7 @@
       }
     },
     {
-      "name": "👑果冻👑&飞云🌾",
+      "name": "飞云🌾",
       "type": 1,
       "url": "http://122.228.84.103:7777/api/?key=o9fQb0Jvz0qZzY19Jq&url=",
       "ext": {
@@ -655,7 +655,7 @@
       }
     },
     {
-      "name": "👑果冻👑&亮亮🌾",
+      "name": "亮亮🌾",
       "type": 1,
       "url": "https://m.jialiangos.com/jx/?url=",
       "ext": {
@@ -669,7 +669,7 @@
       }
     },
     {
-      "name": "👑果冻👑&赞赞🌾",
+      "name": "赞赞🌾",
       "type": 1,
       "url": "https://vip.yybjs.top/home/api?type=ys&uid=2691400&key=bcmqsvwyzACFIPY368&url=",
       "ext": {
@@ -682,7 +682,7 @@
       }
     },
     {
-      "name": "👑果冻👑&左岸🌾",
+      "name": "左岸🌾",
       "type": 1,
       "url": "http://122.228.84.103:5829/jx/?url=",
       "ext": {
@@ -695,7 +695,7 @@
       }
     },
     {
-      "name": "👑果冻👑&米饭🌾",
+      "name": "米饭🌾",
       "type": 1,
       "url": "https://api.json.icu/api/?key=b1f3b1a9e1c0a42ae969db10bd315a95&url=",
       "ext": {
@@ -724,7 +724,7 @@
       }
     },
     {
-      "name": "👑果冻👑&YuMi-vip🥭",
+      "name": "YuMi-vip🥭",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "ext": {
@@ -755,7 +755,7 @@
   ],
   "lives": [
     {
-      "name": "👑果冻👑&IPv4",
+      "name": "IPv4",
       "type": 0,
       "url": "./lib/直播挺快.txt",
       "ua": "okhttp/3.12.13",
@@ -765,7 +765,7 @@
   ],
   "doh": [
     {
-      "name": "👑果冻👑&Google",
+      "name": "Google",
       "url": "https://dns.google/dns-query",
       "ips": [
         "8.8.4.4",
@@ -773,7 +773,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&Cloudflare",
+      "name": "Cloudflare",
       "url": "https://cloudflare-dns.com/dns-query",
       "ips": [
         "1.1.1.1",
@@ -783,7 +783,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&AdGuard",
+      "name": "AdGuard",
       "url": "https://dns.adguard.com/dns-query",
       "ips": [
         "94.140.14.140",
@@ -791,7 +791,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&DNSWatch",
+      "name": "DNSWatch",
       "url": "https://resolver2.dns.watch/dns-query",
       "ips": [
         "84.200.69.80",
@@ -799,7 +799,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&Quad9",
+      "name": "Quad9",
       "url": "https://dns.quad9.net/dns-quer",
       "ips": [
         "9.9.9.9",
@@ -809,7 +809,7 @@
   ],
   "rules": [
     {
-      "name": "👑果冻👑&proxy",
+      "name": "proxy",
       "hosts": [
         "raw.githubusercontent.com",
         "googlevideo.com",
@@ -828,7 +828,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&海外看",
+      "name": "海外看",
       "hosts": [
         "haiwaikan"
       ],
@@ -839,7 +839,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&暴风廣告",
+      "name": "暴风廣告",
       "hosts": [
         "bfzy",
         "s5.bfzycdn"
@@ -849,7 +849,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&星星",
+      "name": "星星",
       "hosts": [
         "aws.ulivetv.net"
       ],
@@ -859,7 +859,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&量子廣告",
+      "name": "量子廣告",
       "hosts": [
         "vip.lz",
         "hd.lz",
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&非凡廣告",
+      "name": "非凡廣告",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy"
@@ -882,7 +882,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&火山嗅探",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -891,7 +891,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&抖音嗅探",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
