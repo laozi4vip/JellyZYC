@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "👑果冻👑&live",
+      "name": "live",
       "type": 0,
       "url": "./lib/live.txt",
       "playerType": 1,
@@ -15,7 +15,7 @@
   "sites": [
     {
       "key": "nongmin",
-      "name": "👑果冻👑&💘神仙影视 | 高清急速 官网www.sxtv.top",
+      "name": "💘神仙影视 | 高清急速 官网www.sxtv.top",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -25,7 +25,7 @@
     },
     {
       "key": "csp_sxtv",
-      "name": "👑果冻👑&自营 | 神仙影视",
+      "name": "自营 | 神仙影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -35,7 +35,7 @@
     },
     {
       "key": "阿里云盘登录",
-      "name": "👑果冻👑&Token | 获取",
+      "name": "Token | 获取",
       "type": 3,
       "api": "csp_AliYunPan",
       "searchable": 0,
@@ -45,7 +45,7 @@
     },
     {
       "key": "csp_Bili",
-      "name": "👑果冻👑&哔哩哔哩",
+      "name": "哔哩哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -55,7 +55,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "👑果冻👑&阿里 | 玩偶哥哥",
+      "name": "阿里 | 玩偶哥哥",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -66,7 +66,7 @@
     },
     {
       "key": "AList111",
-      "name": "👑果冻👑&云盘 | 阿狸",
+      "name": "云盘 | 阿狸",
       "type": 3,
       "api": "csp_AListBox",
       "jar": "http://xn--kwra9540c.love/虫/八宝周",
@@ -79,7 +79,7 @@
     },
     {
       "key": "阿里苏苏",
-      "name": "👑果冻👑&云盘 | 苏苏",
+      "name": "云盘 | 苏苏",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -89,7 +89,7 @@
     },
     {
       "key": "厂长",
-      "name": "👑果冻👑&影视 | 厂长",
+      "name": "影视 | 厂长",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -100,7 +100,7 @@
     },
     {
       "key": "哔嘀",
-      "name": "👑果冻👑&影视 | 哔嘀",
+      "name": "影视 | 哔嘀",
       "type": 3,
       "api": "csp_Bdys",
       "searchable": 1,
@@ -109,7 +109,7 @@
     },
     {
       "key": "低端",
-      "name": "👑果冻👑&影视 | 低端",
+      "name": "影视 | 低端",
       "type": 3,
       "api": "csp_Ddys",
       "searchable": 1,
@@ -118,7 +118,7 @@
     },
     {
       "key": "七七",
-      "name": "👑果冻👑&影视 | 七七",
+      "name": "影视 | 七七",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -127,7 +127,7 @@
     },
     {
       "key": "jingluo",
-      "name": "👑果冻👑&影视 | TVB云播",
+      "name": "影视 | TVB云播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -137,7 +137,7 @@
     },
     {
       "key": "LW",
-      "name": "👑果冻👑&影视 | 老王影视",
+      "name": "影视 | 老王影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -150,7 +150,7 @@
     },
     {
       "key": "影视工厂",
-      "name": "👑果冻👑&影视 | 影视工厂",
+      "name": "影视 | 影视工厂",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -160,7 +160,7 @@
     },
     {
       "key": "996",
-      "name": "👑果冻👑&影视 | 996影视",
+      "name": "影视 | 996影视",
       "type": 3,
       "filterable": 1,
       "api": "csp_XBPQ",
@@ -174,7 +174,7 @@
     },
     {
       "key": "新浪",
-      "name": "👑果冻👑&影视 | 新浪资源",
+      "name": "影视 | 新浪资源",
       "type": 1,
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -201,7 +201,7 @@
     },
     {
       "key": "HH",
-      "name": "👑果冻👑&影视 | 豪华资源",
+      "name": "影视 | 豪华资源",
       "type": 1,
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
@@ -238,7 +238,7 @@
     },
     {
       "key": "多聚影视",
-      "name": "👑果冻👑&影视 | 多聚影视",
+      "name": "影视 | 多聚影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -248,7 +248,7 @@
     },
     {
       "key": "海兔",
-      "name": "👑果冻👑&影视 | 海兔影院",
+      "name": "影视 | 海兔影院",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
@@ -258,7 +258,7 @@
     },
     {
       "key": "无心影视",
-      "name": "👑果冻👑&影视 | 无心影视",
+      "name": "影视 | 无心影视",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
@@ -268,7 +268,7 @@
     },
     {
       "key": "悠云影视",
-      "name": "👑果冻👑&影视 | 悠云影视",
+      "name": "影视 | 悠云影视",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
@@ -278,7 +278,7 @@
     },
     {
       "key": "光棍影视",
-      "name": "👑果冻👑&影视 | 光棍影视",
+      "name": "影视 | 光棍影视",
       "type": 3,
       "api": "csp_XBPQ",
       "filterable": 1,
@@ -288,7 +288,7 @@
     },
     {
       "key": "云播",
-      "name": "👑果冻👑&影视 | 云播",
+      "name": "影视 | 云播",
       "type": 3,
       "api": "csp_Skapp",
       "playerType": 2,
@@ -296,7 +296,7 @@
     },
     {
       "key": "星星",
-      "name": "👑果冻👑&影视 | 星星",
+      "name": "影视 | 星星",
       "type": 3,
       "api": "csp_App",
       "playerType": 2,
@@ -304,7 +304,7 @@
     },
     {
       "key": "一起看",
-      "name": "👑果冻👑&影视 | 一起看",
+      "name": "影视 | 一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -313,14 +313,14 @@
     },
     {
       "key": "网飞影视",
-      "name": "👑果冻👑&影视 | 网飞",
+      "name": "影视 | 网飞",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/网飞TV.js"
     },
     {
       "key": "csp_XYQHikerdyx",
-      "name": "👑果冻👑&影视 | 港湾蓝光",
+      "name": "影视 | 港湾蓝光",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -330,7 +330,7 @@
     },
     {
       "key": "一起看",
-      "name": "👑果冻👑&影视 | 一起看",
+      "name": "影视 | 一起看",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -339,7 +339,7 @@
     },
     {
       "key": "机器人",
-      "name": "👑果冻👑&影视 | 机器人",
+      "name": "影视 | 机器人",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
@@ -348,7 +348,7 @@
     },
     {
       "key": "短剧网",
-      "name": "👑果冻👑&影视 | 短剧网",
+      "name": "影视 | 短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
       "searchable": 1,
@@ -357,21 +357,21 @@
     },
     {
       "key": "不开心",
-      "name": "👑果冻👑&影视 | 不开心",
+      "name": "影视 | 不开心",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/不开心.js"
     },
     {
       "key": "追剧迷",
-      "name": "👑果冻👑&影视 | 追剧迷",
+      "name": "影视 | 追剧迷",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/追剧迷.js"
     },
     {
       "key": "熊猫",
-      "name": "👑果冻👑&影视 | 熊猫影视",
+      "name": "影视 | 熊猫影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -381,7 +381,7 @@
     },
     {
       "key": "农民",
-      "name": "👑果冻👑&影视 | 农民影视",
+      "name": "影视 | 农民影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -391,7 +391,7 @@
     },
     {
       "key": "03YINGSHI",
-      "name": "👑果冻👑&影视 | 零三影视",
+      "name": "影视 | 零三影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -401,7 +401,7 @@
     },
     {
       "key": "wuya",
-      "name": "👑果冻👑&影视 | 乌鸦影视",
+      "name": "影视 | 乌鸦影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -411,21 +411,21 @@
     },
     {
       "key": "两个磁力",
-      "name": "👑果冻👑&影视 | 两个磁力",
+      "name": "影视 | 两个磁力",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/两个磁力.js"
     },
     {
       "key": "兄弟影视",
-      "name": "👑果冻👑&影视 | 兄弟影视",
+      "name": "影视 | 兄弟影视",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/兄弟影视.js"
     },
     {
       "key": "策驰影院",
-      "name": "👑果冻👑&影视 | 策驰影院",
+      "name": "影视 | 策驰影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -435,21 +435,21 @@
     },
     {
       "key": "畅梦影视",
-      "name": "👑果冻👑&影视 | 畅梦影视",
+      "name": "影视 | 畅梦影视",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/畅梦影视.js"
     },
     {
       "key": "南瓜影视",
-      "name": "👑果冻👑&影视 | 南瓜影视",
+      "name": "影视 | 南瓜影视",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/南瓜影视.js"
     },
     {
       "key": "圣城影视",
-      "name": "👑果冻👑&影视 | 圣城影视",
+      "name": "影视 | 圣城影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -459,7 +459,7 @@
     },
     {
       "key": "徕米影视",
-      "name": "👑果冻👑&影视 | 徕米影视",
+      "name": "影视 | 徕米影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -469,7 +469,7 @@
     },
     {
       "key": "萌猫影视",
-      "name": "👑果冻👑&影视 | 萌猫影视",
+      "name": "影视 | 萌猫影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -479,7 +479,7 @@
     },
     {
       "key": "好戏影视",
-      "name": "👑果冻👑&影视 | 好戏影视",
+      "name": "影视 | 好戏影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -489,7 +489,7 @@
     },
     {
       "key": "爱看影视",
-      "name": "👑果冻👑&影视 | 爱看影视",
+      "name": "影视 | 爱看影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -499,7 +499,7 @@
     },
     {
       "key": "maolvys",
-      "name": "👑果冻👑&影视 | 毛驴影视",
+      "name": "影视 | 毛驴影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -509,7 +509,7 @@
     },
     {
       "key": "电影先生",
-      "name": "👑果冻👑&影视 | 电影先生",
+      "name": "影视 | 电影先生",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -519,7 +519,7 @@
     },
     {
       "key": "月亮",
-      "name": "👑果冻👑&影视 | 月亮电影",
+      "name": "影视 | 月亮电影",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -529,7 +529,7 @@
     },
     {
       "key": "蛋蛋影视",
-      "name": "👑果冻👑&影视 | 蛋蛋影视",
+      "name": "影视 | 蛋蛋影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -539,7 +539,7 @@
     },
     {
       "key": "锐行加速",
-      "name": "👑果冻👑&影视 | 锐行加速",
+      "name": "影视 | 锐行加速",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -549,7 +549,7 @@
     },
     {
       "key": "深蓝影视",
-      "name": "👑果冻👑&影视 | 深蓝影视",
+      "name": "影视 | 深蓝影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -559,7 +559,7 @@
     },
     {
       "key": "奇趣影视",
-      "name": "👑果冻👑&影视 | 奇趣影视",
+      "name": "影视 | 奇趣影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -569,7 +569,7 @@
     },
     {
       "key": "天天视频",
-      "name": "👑果冻👑&APP | 天天视频",
+      "name": "APP | 天天视频",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -579,7 +579,7 @@
     },
     {
       "key": "酷影视",
-      "name": "👑果冻👑&APP | 酷影视",
+      "name": "APP | 酷影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -589,14 +589,14 @@
     },
     {
       "key": "影探",
-      "name": "👑果冻👑&APP | 影探4K",
+      "name": "APP | 影探4K",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/yt.js"
     },
     {
       "key": "ysjj-duo",
-      "name": "👑果冻👑&APP | 影视之家",
+      "name": "APP | 影视之家",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -606,7 +606,7 @@
     },
     {
       "key": "kuin-duo",
-      "name": "👑果冻👑&APP | 酷音影视",
+      "name": "APP | 酷音影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -616,7 +616,7 @@
     },
     {
       "key": "69美剧",
-      "name": "👑果冻👑&APP | 69美剧",
+      "name": "APP | 69美剧",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
@@ -626,7 +626,7 @@
     },
     {
       "key": "py_qie",
-      "name": "👑果冻👑&体育 | 企鹅体育",
+      "name": "体育 | 企鹅体育",
       "type": 3,
       "api": "py_qie",
       "searchable": 0,
@@ -636,49 +636,49 @@
     },
     {
       "key": "88看球",
-      "name": "👑果冻👑&体育 | 88看球",
+      "name": "体育 | 88看球",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/88看球.js"
     },
     {
       "key": "JRKAN直播",
-      "name": "👑果冻👑&体育 | JRKAN直播",
+      "name": "体育 | JRKAN直播",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/JRKAN直播.js"
     },
     {
       "key": "网络直播",
-      "name": "👑果冻👑&直播 | 综合直播",
+      "name": "直播 | 综合直播",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/JustLive.js"
     },
     {
       "key": "斗鱼直播",
-      "name": "👑果冻👑&直播 | 斗鱼",
+      "name": "直播 | 斗鱼",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/斗鱼直播.js"
     },
     {
       "key": "虎牙直播",
-      "name": "👑果冻👑&直播 | 虎牙",
+      "name": "直播 | 虎牙",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/虎牙直播.js"
     },
     {
       "key": "哔哩直播",
-      "name": "👑果冻👑&直播 | 哔哩哔哩",
+      "name": "直播 | 哔哩哔哩",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/哔哩直播.js"
     },
     {
       "key": "网易CC",
-      "name": "👑果冻👑&直播 | 网易CC",
+      "name": "直播 | 网易CC",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -688,7 +688,7 @@
     },
     {
       "key": "樱花动漫",
-      "name": "👑果冻👑&动漫 | 樱花动漫",
+      "name": "动漫 | 樱花动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -698,35 +698,35 @@
     },
     {
       "key": "AnFuns",
-      "name": "👑果冻👑&动漫 | AnFuns",
+      "name": "动漫 | AnFuns",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/AnFuns.js"
     },
     {
       "key": "AGE动漫",
-      "name": "👑果冻👑&动漫 | AGE",
+      "name": "动漫 | AGE",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/AGE动漫.js"
     },
     {
       "key": "NT动漫",
-      "name": "👑果冻👑&动漫 | NT动漫",
+      "name": "动漫 | NT动漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/NT动漫.js"
     },
     {
       "key": "58动漫",
-      "name": "👑果冻👑&动漫 | 58动漫",
+      "name": "动漫 | 58动漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/58动漫.js"
     },
     {
       "key": "二三三",
-      "name": "👑果冻👑&动漫 | 二三三",
+      "name": "动漫 | 二三三",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -736,42 +736,42 @@
     },
     {
       "key": "路漫漫",
-      "name": "👑果冻👑&动漫 | 路漫漫",
+      "name": "动漫 | 路漫漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/路漫漫.js"
     },
     {
       "key": "动漫岛",
-      "name": "👑果冻👑&动漫 | 动漫岛",
+      "name": "动漫 | 动漫岛",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/动漫岛.js"
     },
     {
       "key": "去看吧",
-      "name": "👑果冻👑&动漫 | 去看吧",
+      "name": "动漫 | 去看吧",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/去看吧.js"
     },
     {
       "key": "爱弹幕",
-      "name": "👑果冻👑&动漫 | 爱弹幕",
+      "name": "动漫 | 爱弹幕",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/爱弹幕.js"
     },
     {
       "key": "异世界",
-      "name": "👑果冻👑&动漫 | 异世界",
+      "name": "动漫 | 异世界",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/异世界.js"
     },
     {
       "key": "plipili",
-      "name": "👑果冻👑&动漫 | pilipili",
+      "name": "动漫 | pilipili",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -781,14 +781,14 @@
     },
     {
       "key": "曲奇动漫",
-      "name": "👑果冻👑&动漫 | 曲奇动漫",
+      "name": "动漫 | 曲奇动漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/曲奇动漫.js"
     },
     {
       "key": "MX动漫",
-      "name": "👑果冻👑&动漫 | MX动漫",
+      "name": "动漫 | MX动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -798,28 +798,28 @@
     },
     {
       "key": "妮可动漫",
-      "name": "👑果冻👑&动漫 | 妮可动漫",
+      "name": "动漫 | 妮可动漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/妮可动漫.js"
     },
     {
       "key": "奇米动漫",
-      "name": "👑果冻👑&动漫 | 奇米动漫",
+      "name": "动漫 | 奇米动漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/奇米动漫.js"
     },
     {
       "key": "怡萱动漫",
-      "name": "👑果冻👑&动漫 | 怡萱动漫",
+      "name": "动漫 | 怡萱动漫",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/怡萱动漫.js"
     },
     {
       "key": "维奇动漫",
-      "name": "👑果冻👑&动漫 | 维奇动漫",
+      "name": "动漫 | 维奇动漫",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -829,7 +829,7 @@
     },
     {
       "key": "动漫巴士",
-      "name": "👑果冻👑&动漫 | 动漫巴士",
+      "name": "动漫 | 动漫巴士",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -839,7 +839,7 @@
     },
     {
       "key": "兔小贝",
-      "name": "👑果冻👑&教育 | 儿童启蒙",
+      "name": "教育 | 儿童启蒙",
       "type": 3,
       "api": "./lib/drpy.min.js",
       "ext": "./lib/兔小贝.js",
@@ -849,7 +849,7 @@
     },
     {
       "key": "儿童拼音",
-      "name": "👑果冻👑&教育 | 儿童拼音",
+      "name": "教育 | 儿童拼音",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -859,7 +859,7 @@
     },
     {
       "key": "儿童识字",
-      "name": "👑果冻👑&教育 | 儿童识字",
+      "name": "教育 | 儿童识字",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -869,7 +869,7 @@
     },
     {
       "key": "儿童英语",
-      "name": "👑果冻👑&教育 | 儿童英语",
+      "name": "教育 | 儿童英语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -879,7 +879,7 @@
     },
     {
       "key": "儿童硬笔",
-      "name": "👑果冻👑&教育 | 儿童硬笔",
+      "name": "教育 | 儿童硬笔",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -889,7 +889,7 @@
     },
     {
       "key": "儿童思维",
-      "name": "👑果冻👑&教育 | 儿童思维",
+      "name": "教育 | 儿童思维",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -899,7 +899,7 @@
     },
     {
       "key": "儿童口才",
-      "name": "👑果冻👑&教育 | 儿童口才",
+      "name": "教育 | 儿童口才",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -909,7 +909,7 @@
     },
     {
       "key": "儿童编程",
-      "name": "👑果冻👑&教育 | 儿童编程",
+      "name": "教育 | 儿童编程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -919,7 +919,7 @@
     },
     {
       "key": "儿童武术",
-      "name": "👑果冻👑&教育 | 儿童武术",
+      "name": "教育 | 儿童武术",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -929,7 +929,7 @@
     },
     {
       "key": "少儿教育",
-      "name": "👑果冻👑&教育 | 少儿教育",
+      "name": "教育 | 少儿教育",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -939,7 +939,7 @@
     },
     {
       "key": "小学课堂",
-      "name": "👑果冻👑&教育 | 小学课堂",
+      "name": "教育 | 小学课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -949,7 +949,7 @@
     },
     {
       "key": "初中课堂",
-      "name": "👑果冻👑&教育 | 初中课堂",
+      "name": "教育 | 初中课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -959,7 +959,7 @@
     },
     {
       "key": "高中教育",
-      "name": "👑果冻👑&教育 | 高中课堂",
+      "name": "教育 | 高中课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -969,7 +969,7 @@
     },
     {
       "key": "外语课堂",
-      "name": "👑果冻👑&教育 | 外语课堂",
+      "name": "教育 | 外语课堂",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -979,7 +979,7 @@
     },
     {
       "key": "小灯塔百科",
-      "name": "👑果冻👑&教育 | 小灯塔百科",
+      "name": "教育 | 小灯塔百科",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -989,7 +989,7 @@
     },
     {
       "key": "小灯塔科学",
-      "name": "👑果冻👑&教育 | 小灯塔科学",
+      "name": "教育 | 小灯塔科学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -999,7 +999,7 @@
     },
     {
       "key": "小灯塔地理",
-      "name": "👑果冻👑&教育 | 小灯塔地理",
+      "name": "教育 | 小灯塔地理",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1009,7 +1009,7 @@
     },
     {
       "key": "小灯塔国学",
-      "name": "👑果冻👑&教育 | 小灯塔国学",
+      "name": "教育 | 小灯塔国学",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1019,7 +1019,7 @@
     },
     {
       "key": "小灯塔人文",
-      "name": "👑果冻👑&教育 | 小灯塔人文",
+      "name": "教育 | 小灯塔人文",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -1029,7 +1029,7 @@
     },
     {
       "key": "YiSo",
-      "name": "👑果冻👑&搜索 | 易搜",
+      "name": "搜索 | 易搜",
       "type": 3,
       "jar": "./lib/fan.txt",
       "api": "csp_YiSo",
@@ -1040,7 +1040,7 @@
     },
     {
       "key": "PanSou",
-      "name": "👑果冻👑&搜索 | 盘搜",
+      "name": "搜索 | 盘搜",
       "type": 3,
       "jar": "./lib/fan.txt",
       "api": "csp_PanSou",
@@ -1051,7 +1051,7 @@
     },
     {
       "key": "UpYun",
-      "name": "👑果冻👑&搜索 | Up搜",
+      "name": "搜索 | Up搜",
       "type": 3,
       "jar": "./lib/fan.txt",
       "api": "csp_UpYun",
@@ -1062,7 +1062,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "👑果冻👑&搜索 | 盘搜索",
+      "name": "搜索 | 盘搜索",
       "type": 3,
       "jar": "./lib/fan.txt",
       "api": "csp_PanSearch",
@@ -1073,7 +1073,7 @@
     },
     {
       "key": "七夜",
-      "name": "👑果冻👑&搜索 | 七夜",
+      "name": "搜索 | 七夜",
       "type": 3,
       "jar": "./lib/fan.txt",
       "api": "csp_Dovx",
@@ -1085,32 +1085,32 @@
   ],
   "parses": [
     {
-      "name": "👑果冻👑&并发",
+      "name": "并发",
       "type": 3,
       "url": "Demo"
     },
     {
-      "name": "👑果冻👑&聚合",
+      "name": "聚合",
       "type": 3,
       "url": "Web"
     },
     {
-      "name": "👑果冻👑&神仙解析1",
+      "name": "神仙解析1",
       "type": 1,
       "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
     },
     {
-      "name": "👑果冻👑&神仙解析2",
+      "name": "神仙解析2",
       "type": 1,
       "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
     },
     {
-      "name": "👑果冻👑&神仙解析3",
+      "name": "神仙解析3",
       "type": 1,
       "url": "https://jx.xyflv.cc/?url="
     },
     {
-      "name": "👑果冻👑&神仙嗅探1",
+      "name": "神仙嗅探1",
       "type": 0,
       "url": "https://jx.jsonplayer.com/player/?url=",
       "ext": {
@@ -1139,12 +1139,12 @@
       }
     },
     {
-      "name": "👑果冻👑&神仙嗅探2",
+      "name": "神仙嗅探2",
       "url": "https://www.ckplayer.vip/jiexi/?url=",
       "showType": 1
     },
     {
-      "name": "👑果冻👑&神仙嗅探3",
+      "name": "神仙嗅探3",
       "type": 0,
       "url": "https://www.yemu.xyz/?url=",
       "ext": {
@@ -1173,14 +1173,14 @@
       }
     },
     {
-      "name": "👑果冻👑&神仙嗅探7",
+      "name": "神仙嗅探7",
       "type": 0,
       "url": "https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="
     }
   ],
   "rules": [
     {
-      "name": "👑果冻👑&非凡量子暴风",
+      "name": "非凡量子暴风",
       "hosts": [
         "vip.ffzy",
         "hd.ffzy",
@@ -1195,7 +1195,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&索尼广告",
+      "name": "索尼广告",
       "hosts": [
         "suonizy"
       ],
@@ -1207,7 +1207,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&火山嗅探",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -1216,7 +1216,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&抖音嗅探",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
@@ -1227,7 +1227,7 @@
   ],
   "doh": [
     {
-      "name": "👑果冻👑&AdGuard",
+      "name": "AdGuard",
       "url": "https://dns.adguard.com/dns-query",
       "ips": [
         "94.140.14.140",
@@ -1235,7 +1235,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&Cloudflare",
+      "name": "Cloudflare",
       "url": "https://cloudflare-dns.com/dns-query",
       "ips": [
         "1.1.1.1",
@@ -1245,7 +1245,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&DNSWatch",
+      "name": "DNSWatch",
       "url": "https://resolver2.dns.watch/dns-query",
       "ips": [
         "84.200.69.80",
@@ -1253,7 +1253,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&Google",
+      "name": "Google",
       "url": "https://dns.google/dns-query",
       "ips": [
         "8.8.4.4",
@@ -1261,7 +1261,7 @@
       ]
     },
     {
-      "name": "👑果冻👑&Quad9",
+      "name": "Quad9",
       "url": "https://dns.quad9.net/dns-quer",
       "ips": [
         "9.9.9.9",
@@ -1310,82 +1310,82 @@
       "options": [
         {
           "category": 4,
-          "name": "👑果冻👑&opensles",
+          "name": "opensles",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&overlay-format",
+          "name": "overlay-format",
           "value": "842225234"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&framedrop",
+          "name": "framedrop",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&soundtouch",
+          "name": "soundtouch",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&start-on-prepared",
+          "name": "start-on-prepared",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&http-detect-range-support",
+          "name": "http-detect-range-support",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&fflags",
+          "name": "fflags",
           "value": "fastseek"
         },
         {
           "category": 2,
-          "name": "👑果冻👑&skip_loop_filter",
+          "name": "skip_loop_filter",
           "value": "48"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&reconnect",
+          "name": "reconnect",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&max-buffer-size",
+          "name": "max-buffer-size",
           "value": "5242880"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&enable-accurate-seek",
+          "name": "enable-accurate-seek",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec",
+          "name": "mediacodec",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-auto-rotate",
+          "name": "mediacodec-auto-rotate",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-handle-resolution-change",
+          "name": "mediacodec-handle-resolution-change",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-hevc",
+          "name": "mediacodec-hevc",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&dns_cache_timeout",
+          "name": "dns_cache_timeout",
           "value": "600000000"
         }
       ]
@@ -1395,82 +1395,82 @@
       "options": [
         {
           "category": 4,
-          "name": "👑果冻👑&opensles",
+          "name": "opensles",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&overlay-format",
+          "name": "overlay-format",
           "value": "842225234"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&framedrop",
+          "name": "framedrop",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&soundtouch",
+          "name": "soundtouch",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&start-on-prepared",
+          "name": "start-on-prepared",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&http-detect-range-support",
+          "name": "http-detect-range-support",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&fflags",
+          "name": "fflags",
           "value": "fastseek"
         },
         {
           "category": 2,
-          "name": "👑果冻👑&skip_loop_filter",
+          "name": "skip_loop_filter",
           "value": "48"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&reconnect",
+          "name": "reconnect",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&max-buffer-size",
+          "name": "max-buffer-size",
           "value": "5242880"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&enable-accurate-seek",
+          "name": "enable-accurate-seek",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec",
+          "name": "mediacodec",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-auto-rotate",
+          "name": "mediacodec-auto-rotate",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-handle-resolution-change",
+          "name": "mediacodec-handle-resolution-change",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-hevc",
+          "name": "mediacodec-hevc",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&dns_cache_timeout",
+          "name": "dns_cache_timeout",
           "value": "600000000"
         }
       ]
