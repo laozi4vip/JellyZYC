@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "车妹",
-      "name": "👑果冻👑&🚛车妹┃2K",
+      "name": "🚛车妹┃2K",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -14,7 +14,7 @@
     },
     {
       "key": "迷你库",
-      "name": "👑果冻👑&🚛迷你库",
+      "name": "🚛迷你库",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -24,7 +24,7 @@
     },
     {
       "key": "乐猪影视",
-      "name": "👑果冻👑&🚛乐猪视频",
+      "name": "🚛乐猪视频",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -34,7 +34,7 @@
     },
     {
       "key": "热播之家",
-      "name": "👑果冻👑&🚛热播之家",
+      "name": "🚛热播之家",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -44,7 +44,7 @@
     },
     {
       "key": "花猫影视",
-      "name": "👑果冻👑&🚛花猫影视",
+      "name": "🚛花猫影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -54,7 +54,7 @@
     },
     {
       "key": "笑笑影视",
-      "name": "👑果冻👑&🚛笑笑影视",
+      "name": "🚛笑笑影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -64,7 +64,7 @@
     },
     {
       "key": "A8影视",
-      "name": "👑果冻👑&🚛A8┃秒播",
+      "name": "🚛A8┃秒播",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
@@ -74,7 +74,7 @@
     },
     {
       "key": "新视觉",
-      "name": "👑果冻👑&🚛视觉┃秒播",
+      "name": "🚛视觉┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -84,7 +84,7 @@
     },
     {
       "key": "耐看点播",
-      "name": "👑果冻👑&🚛耐看┃秒播",
+      "name": "🚛耐看┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "348影视",
-      "name": "👑果冻👑&🚛348┃秒播",
+      "name": "🚛348┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -105,7 +105,7 @@
     },
     {
       "key": "Free影视",
-      "name": "👑果冻👑&🚛Free┃秒播",
+      "name": "🚛Free┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -115,14 +115,14 @@
     },
     {
       "key": "畅梦",
-      "name": "👑果冻👑&🚛畅梦┃秒播",
+      "name": "🚛畅梦┃秒播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/changmeng.js"
     },
     {
       "key": "农民影视",
-      "name": "👑果冻👑&🚛农民┃秒播",
+      "name": "🚛农民┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -132,7 +132,7 @@
     },
     {
       "key": "子子影视",
-      "name": "👑果冻👑&🚛子子┃秒播",
+      "name": "🚛子子┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -142,7 +142,7 @@
     },
     {
       "key": "厂长",
-      "name": "👑果冻👑&🚛厂长┃秒播",
+      "name": "🚛厂长┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -152,7 +152,7 @@
     },
     {
       "key": "低端影视",
-      "name": "👑果冻👑&🚛低端┃秒播",
+      "name": "🚛低端┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -162,21 +162,21 @@
     },
     {
       "key": "在线之家",
-      "name": "👑果冻👑&🚛外剧┃秒播",
+      "name": "🚛外剧┃秒播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/zaixian.js"
     },
     {
       "key": "素白白",
-      "name": "👑果冻👑&🚛素白┃秒播",
+      "name": "🚛素白┃秒播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/subaibai.js"
     },
     {
       "key": "徕米影视",
-      "name": "👑果冻👑&🚛徕米影视",
+      "name": "🚛徕米影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -187,7 +187,7 @@
     },
     {
       "key": "看吧TV",
-      "name": "👑果冻👑&🚛看吧TV",
+      "name": "🚛看吧TV",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "明帝影视",
-      "name": "👑果冻👑&🚛明帝影视",
+      "name": "🚛明帝影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -207,14 +207,14 @@
     },
     {
       "key": "爱迪影视",
-      "name": "👑果冻👑&🚛爱迪影视",
+      "name": "🚛爱迪影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "https://api123.adys.app/xgapp.php/v3/"
     },
     {
       "key": "555影视",
-      "name": "👑果冻👑&🚛555蓝光",
+      "name": "🚛555蓝光",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -224,7 +224,7 @@
     },
     {
       "key": "爱看影院",
-      "name": "👑果冻👑&🚛爱看影院",
+      "name": "🚛爱看影院",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -235,7 +235,7 @@
     },
     {
       "key": "策驰影院",
-      "name": "👑果冻👑&🚛策驰影院",
+      "name": "🚛策驰影院",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -245,7 +245,7 @@
     },
     {
       "key": "csp_Voflix",
-      "name": "👑果冻👑&🚛Voflix",
+      "name": "🚛Voflix",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -255,7 +255,7 @@
     },
     {
       "key": "🚛宝仙HD",
-      "name": "👑果冻👑&🚛宝仙HD",
+      "name": "🚛宝仙HD",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -265,14 +265,14 @@
     },
     {
       "key": "101影院",
-      "name": "👑果冻👑&🚛101影院",
+      "name": "🚛101影院",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/l0l.js"
     },
     {
       "key": "Vidhub视频",
-      "name": "👑果冻👑&🚛视频库",
+      "name": "🚛视频库",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -282,7 +282,7 @@
     },
     {
       "key": "石榴影视",
-      "name": "👑果冻👑&🚛石榴影视",
+      "name": "🚛石榴影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -292,7 +292,7 @@
     },
     {
       "key": "两个BT",
-      "name": "👑果冻👑&🚛两个BT",
+      "name": "🚛两个BT",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -302,14 +302,14 @@
     },
     {
       "key": "大师兄影视",
-      "name": "👑果冻👑&🚛大师兄影视",
+      "name": "🚛大师兄影视",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/dashixiongyingshi.js"
     },
     {
       "key": "七年影视",
-      "name": "👑果冻👑&🚛七年影视",
+      "name": "🚛七年影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -320,7 +320,7 @@
     },
     {
       "key": "lzi",
-      "name": "👑果冻👑&🚛量子资源",
+      "name": "🚛量子资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -330,7 +330,7 @@
     },
     {
       "key": "非凡资源",
-      "name": "👑果冻👑&🚛非凡资源",
+      "name": "🚛非凡资源",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -340,21 +340,21 @@
     },
     {
       "key": "拳皇争霸",
-      "name": "👑果冻👑&🚛拳皇争霸",
+      "name": "🚛拳皇争霸",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/quanhuang.js"
     },
     {
       "key": "喜马拉雅",
-      "name": "👑果冻👑&👂喜马拉雅",
+      "name": "👂喜马拉雅",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/ximalaya.js"
     },
     {
       "key": "有声小说吧",
-      "name": "👑果冻👑&👂有声小说吧",
+      "name": "👂有声小说吧",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -364,14 +364,14 @@
     },
     {
       "key": "海洋听书",
-      "name": "👑果冻👑&👂海洋听书",
+      "name": "👂海洋听书",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "ext": "./lib/haiyangtingshu.js"
     },
     {
       "key": "csp_Dm84",
-      "name": "👑果冻👑&🚌动漫巴士",
+      "name": "🚌动漫巴士",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -381,7 +381,7 @@
     },
     {
       "key": "push_agent",
-      "name": "👑果冻👑&🍭推送",
+      "name": "🍭推送",
       "type": 3,
       "api": "csp_Push",
       "searchable": 0,
@@ -391,7 +391,7 @@
     },
     {
       "key": "兔小贝",
-      "name": "👑果冻👑&🐰兔小贝",
+      "name": "🐰兔小贝",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 1,
@@ -401,7 +401,7 @@
     },
     {
       "key": "高中教育",
-      "name": "👑果冻👑&📚学习园地",
+      "name": "📚学习园地",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -411,7 +411,7 @@
     },
     {
       "key": "学外语",
-      "name": "👑果冻👑&📚学外语",
+      "name": "📚学外语",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -421,7 +421,7 @@
     },
     {
       "key": "软件教程",
-      "name": "👑果冻👑&📚软件教程",
+      "name": "📚软件教程",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -431,7 +431,7 @@
     },
     {
       "key": "哔哩哔哩",
-      "name": "👑果冻👑&🅱️哔哩大全",
+      "name": "🅱️哔哩大全",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -441,7 +441,7 @@
     },
     {
       "key": "相声小品",
-      "name": "👑果冻👑&🏮相声小品",
+      "name": "🏮相声小品",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -451,7 +451,7 @@
     },
     {
       "key": "戏 曲",
-      "name": "👑果冻👑&🎈国粹戏曲",
+      "name": "🎈国粹戏曲",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -461,7 +461,7 @@
     },
     {
       "key": "女团热舞",
-      "name": "👑果冻👑&💃女团热舞",
+      "name": "💃女团热舞",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -471,7 +471,7 @@
     },
     {
       "key": "演唱会",
-      "name": "👑果冻👑&🎸演唱会",
+      "name": "🎸演唱会",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -481,7 +481,7 @@
     },
     {
       "key": "csp_XBPQ_短视频",
-      "name": "👑果冻👑&☘️短视频",
+      "name": "☘️短视频",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 0,
@@ -491,7 +491,7 @@
     },
     {
       "key": "JRKAN直播",
-      "name": "👑果冻👑&⚽JRKAN直播",
+      "name": "⚽JRKAN直播",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -501,7 +501,7 @@
     },
     {
       "key": "88看球",
-      "name": "👑果冻👑&⚽88看球",
+      "name": "⚽88看球",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -511,7 +511,7 @@
     },
     {
       "key": "虎牙直播",
-      "name": "👑果冻👑&🐯虎牙直播",
+      "name": "🐯虎牙直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -521,7 +521,7 @@
     },
     {
       "key": "斗鱼直播",
-      "name": "👑果冻👑&🐟斗鱼直播",
+      "name": "🐟斗鱼直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -531,7 +531,7 @@
     },
     {
       "key": "csp_Yj1211",
-      "name": "👑果冻👑&📽️在线直播",
+      "name": "📽️在线直播",
       "type": 3,
       "api": "csp_Yj1211",
       "searchable": 0,
@@ -540,7 +540,7 @@
     },
     {
       "key": "哔哩直播",
-      "name": "👑果冻👑&🅱️哔哩直播",
+      "name": "🅱️哔哩直播",
       "type": 3,
       "api": "./lib/drpy2.min.js",
       "searchable": 0,
@@ -550,7 +550,7 @@
     },
     {
       "key": "MV_vod",
-      "name": "👑果冻👑&🎸明星┃MV",
+      "name": "🎸明星┃MV",
       "type": 1,
       "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
       "searchable": 1,
@@ -563,7 +563,7 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "👑果冻👑&redirect",
+          "name": "redirect",
           "urls": [
             "proxy://do=live&type=txt&ext="
           ]
@@ -579,77 +579,77 @@
       "options": [
         {
           "category": 4,
-          "name": "👑果冻👑&opensles",
+          "name": "opensles",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&overlay-format",
+          "name": "overlay-format",
           "value": "842225234"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&framedrop",
+          "name": "framedrop",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&soundtouch",
+          "name": "soundtouch",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&start-on-prepared",
+          "name": "start-on-prepared",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&http-detect-range-support",
+          "name": "http-detect-range-support",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&fflags",
+          "name": "fflags",
           "value": "fastseek"
         },
         {
           "category": 2,
-          "name": "👑果冻👑&skip_loop_filter",
+          "name": "skip_loop_filter",
           "value": "48"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&reconnect",
+          "name": "reconnect",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&enable-accurate-seek",
+          "name": "enable-accurate-seek",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec",
+          "name": "mediacodec",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-auto-rotate",
+          "name": "mediacodec-auto-rotate",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-handle-resolution-change",
+          "name": "mediacodec-handle-resolution-change",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-hevc",
+          "name": "mediacodec-hevc",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&dns_cache_timeout",
+          "name": "dns_cache_timeout",
           "value": "600000000"
         }
       ]
@@ -659,77 +659,77 @@
       "options": [
         {
           "category": 4,
-          "name": "👑果冻👑&opensles",
+          "name": "opensles",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&overlay-format",
+          "name": "overlay-format",
           "value": "842225234"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&framedrop",
+          "name": "framedrop",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&soundtouch",
+          "name": "soundtouch",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&start-on-prepared",
+          "name": "start-on-prepared",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&http-detect-range-support",
+          "name": "http-detect-range-support",
           "value": "0"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&fflags",
+          "name": "fflags",
           "value": "fastseek"
         },
         {
           "category": 2,
-          "name": "👑果冻👑&skip_loop_filter",
+          "name": "skip_loop_filter",
           "value": "48"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&reconnect",
+          "name": "reconnect",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&enable-accurate-seek",
+          "name": "enable-accurate-seek",
           "value": "0"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec",
+          "name": "mediacodec",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-auto-rotate",
+          "name": "mediacodec-auto-rotate",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-handle-resolution-change",
+          "name": "mediacodec-handle-resolution-change",
           "value": "1"
         },
         {
           "category": 4,
-          "name": "👑果冻👑&mediacodec-hevc",
+          "name": "mediacodec-hevc",
           "value": "1"
         },
         {
           "category": 1,
-          "name": "👑果冻👑&dns_cache_timeout",
+          "name": "dns_cache_timeout",
           "value": "600000000"
         }
       ]
