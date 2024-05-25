@@ -2,11 +2,12 @@
   "token": "",
   "openToken": "",
   "siteUrl": "https://wogg.link/",
-  "yunShuSiteUrl": "https://www.weixine.net/",
-  "aliThreadLimit": 64,
-  "openType":"webdav",
+  "yunShuSiteUrl": "https://www.weixine.link/",
+  "aliThreadLimit": 1,
+  "openType":"alist",
+  "autoDeleteLibrary":true,
   "qualitySort": "open原画,原画,普画",
-  "toast":"JyKP9hp7qtITmWVfNxWZy6+MD1U3HRugejv3ijsWlc8=",
-  "quark_position":"before",
+  "toast":"8ytFDPPw2NQQKb+2mxf6EsB2lLorcH5+2kcgK3t9oXX++jgg98HHPPZHYt9Yh+/GN3Ii4GGpJMWRzZwn6hY+1A==",
+  "quark_position":"after",
   "yiSoSaToken": ""
 }

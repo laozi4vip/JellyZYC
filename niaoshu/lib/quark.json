@@ -1,5 +1,5 @@
 {
   "quark_cookie": "",
-  "quarkThreadLimit": 32,
+  "quarkThreadLimit": 30,"autoDeleteLibrary":true,
   "yiSoSaToken": ""
 }
